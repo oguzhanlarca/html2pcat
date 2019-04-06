@@ -22,9 +22,13 @@ $ alias pcat='pygmentize -f terminal256 -O style=monokai -g'
 ```
 ## Installation (Unixes / Mac OS X) In Bash shell
 ```
+$ sudo ./install.sh
+```
+### Manuel Installation in bash shell
+```
 $ gcc -o html2pcat pretty.c
 $ chmod a+x html2pcat
-$ ./html2pcat
+$ ln -s html2pcat ~/../../../../usr/local/bin/html2pcat
 ```
 ## to upgrade later
 ```
