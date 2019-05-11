@@ -8,29 +8,31 @@
 
 ## Dependencies (Homebrew/Linuxbrew)
 ```
-$ brew install python3
 $ brew install python
 $ brew unlink python && brew link --overwrite python # make sure python links to python2
 $ pip2 install --upgrade pip setuptools # upgrade to latest pip2
-$ pip3 install --upgrade pip setuptools # upgrade to latest pip3
-$ pip3 install pygments
+$ pip2 install pygments
 $ brew install html2text
 ```
 ## Suggestion
 ```
 $ alias pcat='pygmentize -f terminal256 -O style=monokai -g'
 ```
-## Installation (Unixes / Mac OS X) In Bash shell
+## Installation
 ```
-$ sudo ./install.sh
+$ git clone https://github.com/oguzhanlarca/html2pcat.git
+$ cd html2pcat
+$ mkdir bin build
+$ make
+$ make install
+$ html2pcat
 ```
 ### Manuel Installation in bash shell
 ```
 $ gcc -o html2pcat pretty.c
 $ chmod a+x html2pcat
-$ ln -s html2pcat ~/../../../../usr/local/bin/html2pcat
 ```
-## to upgrade later
+## Upgrade later
 ```
 $ pip3 install pygments --upgrade
 $ brew upgrade html2text
