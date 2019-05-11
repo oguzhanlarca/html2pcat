@@ -56,8 +56,5 @@ $ brew upgrade html2text
 * rainbow-dash:
     A bright and colorful syntax highlighting theme.
 
-## Demo Screenshot
-soon but be sure ← it works!
-
 ### Authors
 - [oguzhanlarca](https://github.com/oguzhanlarca) Sakarya Universitesi - Bilgisayar Muhendisligi - Sistem Programlama Ders Notlari
