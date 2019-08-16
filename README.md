@@ -1,7 +1,5 @@
 <img src="icon.png" align="right" />
 
-# Like a cat [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/oguzhanlarca/html2pcat)
-
 > its not for any html docs it is for [James S. Plank](http://web.eecs.utk.edu/~plank/) and his cs360 [lecture notes](http://web.eecs.utk.edu/~plank/plank/classes/cs360/lecture_notes.html) and [exams](http://web.eecs.utk.edu/~plank/plank/classes/cs360/tests.html)
 
 > and program is actually doing just ``` html2text lecture.html | pygmentize > lecture.txt ```
