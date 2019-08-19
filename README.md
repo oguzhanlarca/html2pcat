@@ -35,3 +35,5 @@ $ chmod a+x html2pcat
 $ pip3 install pygments --upgrade
 $ brew upgrade html2text
 ```
+## Screenshot
+<img src="screenshot.png" align="left" />
