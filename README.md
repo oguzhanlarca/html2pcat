@@ -4,6 +4,10 @@
 
 > ``` html2text lecture.html | pygmentize > lecture.txt ```
 
+## Prerequisites
+*   Python 2.7 & Python 3.7.4 64-bit or greater
+*   The pip & pip3.7 package management tool or greater
+
 ## Dependencies (Homebrew/Linuxbrew)
 ```
 $ brew install python
