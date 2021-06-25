@@ -1,10 +1,10 @@
 <img src="icon.png" align="right" />
 
-[![CircleCI](https://circleci.com/gh/oguzhanlarca/web2pcat/tree/master.svg?style=svg)](https://circleci.com/gh/oguzhanlarca/web2pcat/tree/master)
-
 > its not for any html docs it is for [James S. Plank](http://web.eecs.utk.edu/~plank/) and his cs360 [lecture notes](http://web.eecs.utk.edu/~plank/plank/classes/cs360/lecture_notes.html) and [exams](http://web.eecs.utk.edu/~plank/plank/classes/cs360/tests.html)
 
 > ``` html2text lecture.html | pygmentize > lecture.txt ```
+
+[![CircleCI](https://circleci.com/gh/oguzhanlarca/web2pcat/tree/master.svg?style=svg)](https://circleci.com/gh/oguzhanlarca/web2pcat/tree/master)
 
 ## Prerequisites
 *   Python 2.7 & Python 3.7.4 64-bit or greater
