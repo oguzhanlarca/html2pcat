@@ -7,8 +7,8 @@
 [![CircleCI](https://circleci.com/gh/oguzhanlarca/web2pcat/tree/master.svg?style=svg)](https://circleci.com/gh/oguzhanlarca/web2pcat/tree/master)
 
 ## Prerequisites
-*   Python 2.7 & Python 3.7.4 64-bit or greater
-*   The pip & pip3.7 package management tool or greater
+*   Python2 & Python3
+*   pip & pip3
 
 ## Dependencies (Homebrew/Linuxbrew)
 ```
