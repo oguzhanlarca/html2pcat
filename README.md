@@ -1,6 +1,6 @@
 <img src="icon.png" align="right" />
 
-[![CircleCI](https://circleci.com/gh/oguzhanlarca/web2pcat/tree/master.svg?style=svg)](https://circleci.com/gh/oguzhanlarca/web2pcat/tree/master) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/oguzhanlarca/web2pcat)
+[![CircleCI](https://circleci.com/gh/oguzhanlarca/web2pcat/tree/master.svg?style=svg)](https://circleci.com/gh/oguzhanlarca/web2pcat/tree/master)
 
 > its not for any html docs it is for [James S. Plank](http://web.eecs.utk.edu/~plank/) and his cs360 [lecture notes](http://web.eecs.utk.edu/~plank/plank/classes/cs360/lecture_notes.html) and [exams](http://web.eecs.utk.edu/~plank/plank/classes/cs360/tests.html)
 
